@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 90vh;
+}
+
+.cubo{
+    background-color: rgb(240, 240, 240);
+    box-shadow: 10px 10px 25px rgb(128, 128, 128);
+    border-radius:20px;
+    padding: 50px;
+}
+.caja{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    font-size:80px;
+}
+
+.day{
+    font-size:30px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    color: rgb(84, 177, 206);
+
+}
