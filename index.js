@@ -10,7 +10,7 @@ const cero = num =>{
 function inicio(){
     let reloj = document.getElementById(`reloj`)
     let day = document.getElementById(`day`)
-    let dias =[`Lunes`,`Martes`,`Miercoles`,`Jueves`,`Viernes`,`Sabado`,`Domingo`]
+    let dias =[`Domingo`,`Lunes`,`Martes`,`Miercoles`,`Jueves`,`Viernes`,`Sabado`]
     let meses =[
             `Enero`,`Febrero`,`Marzo`,`Abril`,
             `Mayo`, `Junio`, `Julio`, `Agosto`,
